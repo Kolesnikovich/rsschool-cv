@@ -1,1 +1,1 @@
-https://github.com/Kolesnikovich/rsschool-cv/blob/gh-pages/cv
+https://Kolesnikovich.github.io/rsschool-cv/cv
